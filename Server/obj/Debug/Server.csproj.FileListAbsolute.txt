@@ -1,0 +1,10 @@
+D:\Source\.NET\WindownForm\Exercise\Exercise 5\Server\bin\Debug\Server.exe.config
+D:\Source\.NET\WindownForm\Exercise\Exercise 5\Server\bin\Debug\Server.exe
+D:\Source\.NET\WindownForm\Exercise\Exercise 5\Server\bin\Debug\Server.pdb
+D:\Source\.NET\WindownForm\Exercise\Exercise 5\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\Source\.NET\WindownForm\Exercise\Exercise 5\Server\obj\Debug\Server.frm_Server.resources
+D:\Source\.NET\WindownForm\Exercise\Exercise 5\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Source\.NET\WindownForm\Exercise\Exercise 5\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\Source\.NET\WindownForm\Exercise\Exercise 5\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Source\.NET\WindownForm\Exercise\Exercise 5\Server\obj\Debug\Server.exe
+D:\Source\.NET\WindownForm\Exercise\Exercise 5\Server\obj\Debug\Server.pdb

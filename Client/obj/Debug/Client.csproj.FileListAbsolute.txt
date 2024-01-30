@@ -1,0 +1,10 @@
+D:\Source\.NET\WindownForm\Exercise\Exercise 5\Client\bin\Debug\Client.exe.config
+D:\Source\.NET\WindownForm\Exercise\Exercise 5\Client\bin\Debug\Client.exe
+D:\Source\.NET\WindownForm\Exercise\Exercise 5\Client\bin\Debug\Client.pdb
+D:\Source\.NET\WindownForm\Exercise\Exercise 5\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\Source\.NET\WindownForm\Exercise\Exercise 5\Client\obj\Debug\Client.frm_Client.resources
+D:\Source\.NET\WindownForm\Exercise\Exercise 5\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Source\.NET\WindownForm\Exercise\Exercise 5\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\Source\.NET\WindownForm\Exercise\Exercise 5\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Source\.NET\WindownForm\Exercise\Exercise 5\Client\obj\Debug\Client.exe
+D:\Source\.NET\WindownForm\Exercise\Exercise 5\Client\obj\Debug\Client.pdb
